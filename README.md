@@ -1,7 +1,7 @@
 # Bitcoin-Price-Prediction
 Bitcoin is a decentralized network and digital currency that uses a peer-to-peer system to verify and process transactions. In this article, I will introduce you to a machine learning project on Bitcoin price prediction with Python.
 
-Visit Yahoo Finance
+** Visit Yahoo Finance **
 Type “Bitcoin” in the search bar
 You will get a summary of bitcoin prices, then just click on the historical data and then click on download as shown in the image below.
 
